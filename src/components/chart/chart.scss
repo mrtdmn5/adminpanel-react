@@ -1,0 +1,14 @@
+.chart{
+    flex: 4;
+    -webkit-box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.18);
+  box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.18);
+  display: flex;
+    justify-content: space-around;
+   
+  .chartsMounth{
+    margin: 30px;
+    p{
+      padding: 10px;
+    }
+  }
+}
